@@ -1,3 +1,7 @@
 .env
 *.cookies
 .tilda_sessions/
+
+# Tilda-generated lazy-load placeholders; keep locally, do not version.
+images/*__resize__20x__*
+images/*__empty__*
