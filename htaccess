@@ -2177,3 +2177,6 @@ RewriteRule ^cases/vnedrenie_bitriks_dlya_avtoshkoly//$ page183292509.html
 RewriteRule ^article/kvalifikacziya_zayavok_v_bitriks/$ page187393409.html
 RewriteRule ^article/kvalifikacziya_zayavok_v_bitriks//$ page187393409.html
 
+RewriteRule ^cases/kontrol_i_upravlenie_diskom_bitriks/$ page198302809.html
+RewriteRule ^cases/kontrol_i_upravlenie_diskom_bitriks//$ page198302809.html
+
